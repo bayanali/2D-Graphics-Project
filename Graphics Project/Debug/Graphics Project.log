@@ -1,0 +1,30 @@
+﻿  Graphics Project.cpp
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(107): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(108): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(126): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(164): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(165): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(181): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(217): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(228): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(245): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(246): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(247): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(271): warning C4838: conversion from 'LONG' to 'double' requires a narrowing conversion
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(272): warning C4838: conversion from 'LONG' to 'double' requires a narrowing conversion
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(282): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(299): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(300): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(304): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(305): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(445): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(446): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(479): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(482): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(485): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(462): warning C4101: 'delta': unreferenced local variable
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(493): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\bayan\desktop\coding\graphics project\graphics project\graphics project.cpp(504): warning C4018: '<': signed/unsigned mismatch
+  Graphics Project.vcxproj -> C:\Users\bayan\Desktop\Coding\Graphics Project\Debug\Graphics Project.exe

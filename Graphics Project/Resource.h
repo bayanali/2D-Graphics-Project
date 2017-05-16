@@ -1,0 +1,56 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by Graphics Project.rc
+//
+
+#define IDS_APP_TITLE			103
+
+#define IDR_MAINFRAME			128
+#define IDD_GRAPHICSPROJECT_DIALOG	102
+#define IDD_ABOUTBOX			103
+#define IDM_ABOUT				104
+#define IDM_EXIT				105
+#define IDI_GRAPHICSPROJECT		107
+#define IDI_SMALL				108
+#define IDC_GRAPHICSPROJECT		109
+
+// menu items:
+#define IDM_SAVE				110
+#define IDM_LOAD				111
+#define IDM_LINE_MIDPOINT		112
+#define IDM_LINE_DDA			113
+#define IDM_LINE_PARAMETRIC		114	
+#define IDM_CIRCLE_MIDPOINT		115
+#define IDM_CIRCLE_CARTESIAN	116
+#define IDM_CIRCLE_POLAR		117
+#define IDM_CIRCLE_ITERPOLAR	118
+#define IDM_CIRCLE_PARAMETRIC	119
+#define IDM_CURVE_1ST			120
+#define IDM_CURVE_2ND			121
+#define IDM_CURVE_3RD_HERMITE	122
+#define IDM_CURVE_3RD_BEZIER	123
+#define IDM_CURVE_SPLINES		124
+#define IDM_CONVEX_FILLING		125
+#define	IDM_CHANGE_BACKGROUND	126
+#define	IDM_CHANGE_DRAWCOLOR	127
+#define IDM_POINTCLIP_RECT		128
+#define IDM_LINECLIP_RECT		129
+#define IDM_POINTCLIP_CIRCLE	130
+#define IDM_LINECLIP_CIRCLE		131
+
+#define IDC_MYICON				2
+#ifndef IDC_STATIC
+#define IDC_STATIC				-1
+#endif
+// Next default values for new objects
+//
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+
+#define _APS_NO_MFC					130
+#define _APS_NEXT_RESOURCE_VALUE	129
+#define _APS_NEXT_COMMAND_VALUE		32771
+#define _APS_NEXT_CONTROL_VALUE		1000
+#define _APS_NEXT_SYMED_VALUE		110
+#endif
+#endif
